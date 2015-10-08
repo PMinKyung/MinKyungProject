@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MobileProgramming4</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/kc/ac/kookmin/exception/intro/a.txt</name>
+			<type>1</type>
+			<location>C:/Users/user/Desktop/a.txt</location>
+		</link>
+		<link>
+			<name>src/kr/ac/kookmin/exception/fileio/numbered.txt</name>
+			<type>1</type>
+			<location>C:/Users/user/Desktop/numbered.txt</location>
+		</link>
+		<link>
+			<name>src/kr/ac/kookmin/exception/fileio/original.txt</name>
+			<type>1</type>
+			<location>C:/Users/user/Desktop/original.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
